@@ -6,3 +6,5 @@ Course That I have studied:
 3. JavaScript Algorithms and Data Structures (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 4. Scientific Computing with Python (https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 5. Data Visualization with D3 (https://www.freecodecamp.org/learn/data-visualization/)
+6. Front-End Development Libraries (https://www.freecodecamp.org/learn/front-end-development-libraries/)
+7. Legacy Responsive Web Design (https://www.freecodecamp.org/learn/responsive-web-design/)
