@@ -9,3 +9,4 @@ My Solution For freeCodeCamp Courses Questions That I have practiced During My F
 5. Data Visualization with D3 (https://www.freecodecamp.org/learn/data-visualization/)
 6. Front-End Development Libraries (https://www.freecodecamp.org/learn/front-end-development-libraries/)
 7. Legacy Responsive Web Design (https://www.freecodecamp.org/learn/responsive-web-design/)
+8. College Algebra With Python (https://www.freecodecamp.org/learn/college-algebra-with-python/)
